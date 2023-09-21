@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi, I'm Luiz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-<!--
-**Luiz009/Luiz009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a System Analyst. Currently I'm working as a API Gateway Management and Web developer at Banco BMG. 🏦
 
-Here are some ideas to get you started:
+#### My current tools 
+📲 Front-end Mobile with React Native  
+📡 Back-end with Nodejs  
+🛠️ Typescript               
+📈 API Gateway              
+🧰 And more...  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Let's build something together? ⭐
+
+#### 💬 Find me elsewhere
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-rodrigues-de-melo-/)](https://www.linkedin.com/in/luiz-rodrigues-de-melo-/) 
+[![Gmail Badge](https://img.shields.io/badge/-luizrmelo3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizrmelo3@gmail.com)](mailto:luizrmelo3@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/luiz-rodrigues-de-melo-/)](https://www.instagram.com/luizrmelo_/)
