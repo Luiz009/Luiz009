@@ -1,6 +1,6 @@
 ### Hi, I'm Luiz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-I’m a Systems Analyst. Currently I'm working as a API Gateway Management and Web developer at Banco BMG. 🏦
+I’m a Systems Analyst. Currently I'm working as a API Gateway Analyst and Web Developer at Banco BMG. 🏦
 
 #### My current tools 
 📲 Front-end Mobile with React Native  
