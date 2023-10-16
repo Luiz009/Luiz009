@@ -4,7 +4,7 @@ I’m a Systems Analyst. Currently I'm working as a API Gateway Analyst and Web 
 
 #### My current tools 
 📲 Mobile with React Native  
-🖥️ Front-end with React
+🖥️ Front-end with React         
 📡 Back-end with Nodejs  
 🛠️ Typescript               
 📈 API Gateway              
