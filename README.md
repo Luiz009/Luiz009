@@ -3,8 +3,7 @@
 I’m a Systems Analyst. Currently I'm working as a API Gateway Analyst and Web Developer at Banco BMG. 🏦
 
 #### My current tools 
-📲 Mobile with React Native  
-🖥️ Front-end with React         
+📲 Mobile with React Native         
 📡 Back-end with Nodejs  
 🛠️ Typescript               
 📈 API Gateway              
