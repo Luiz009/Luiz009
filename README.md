@@ -17,3 +17,4 @@ Let's build something together? ⭐
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-rodrigues-de-melo-/)](https://www.linkedin.com/in/luiz-rodrigues-de-melo-/) 
 [![Gmail Badge](https://img.shields.io/badge/-luizrmelo3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizrmelo3@gmail.com)](mailto:luizrmelo3@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/luiz-rodrigues-de-melo-/)](https://www.instagram.com/luizrmelo_/)
+
