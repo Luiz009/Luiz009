@@ -4,7 +4,7 @@
 I’m a Systems Analyst. Currently I'm working as a API Gateway Analyst and Back-End Developer at Banco BMG. 🏦
 
 #### My current tools 
-📲 Mobile with React Native         
+📲 Mobile with Kotlin         
 📡 Back-end with Nodejs and Java    
 🛠️ Typescript, Java                            
 🧰 And more...  
@@ -25,7 +25,7 @@ Let's build something together? ⭐
 Eu sou Analista de Sistemas. Atualmente estou trabalhando como Analista de API Gateway e progamador Back-End no Banco BMG. 🏦
 
 #### Minhas principais Ferramentas 
-📲 Mobile com React Native         
+📲 Mobile com Kotlin         
 📡 Back-end com Nodejs and Java    
 🛠️ Typescript, Java                            
 🧰 E mais...  
