@@ -1,7 +1,7 @@
 ##### en-us
 ### Hi, I'm Luiz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-I’m a Systems Analyst. Currently I'm working as a API Gateway Analyst and Back-End Developer at Banco BMG. 🏦
+Currently I'm working as a Back-End Developer at GFT Technologies. 🏦
 
 #### My current tools 
 📲 Mobile with Kotlin         
@@ -22,7 +22,7 @@ Let's build something together? ⭐
 
 ### Oi, eu sou o Luiz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-Eu sou Analista de Sistemas. Atualmente estou trabalhando como Analista de API Gateway e progamador Back-End no Banco BMG. 🏦
+Atualmente estou trabalhando como Desenvolvedor Back-End na GFT Technologies. 🏦
 
 #### Minhas principais Ferramentas 
 📲 Mobile com Kotlin         
