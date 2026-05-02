@@ -5,8 +5,8 @@ Currently I'm working as a Back-End Developer at Mercado Livre. 🏦
 
 #### My current tools         
 💻 Front-end with React
-📡 Back-end with Java and Go    
-🛠️ Typescript, Java, Go                            
+📡 Back-end with Java    
+🛠️ Typescript, Java                           
 🧰 And more...  
 
 
@@ -25,8 +25,8 @@ Atualmente estou trabalhando como Desenvolvedor Back-End no Mercado Livre. 🏦
 
 #### Minhas principais Ferramentas 
 💻 Front-end com React   
-📡 Back-end com Java e Go    
-🛠️ Typescript, Java e Go                           
+📡 Back-end com Java   
+🛠️ Typescript, Java                           
 🧰 E mais...  
 
 
